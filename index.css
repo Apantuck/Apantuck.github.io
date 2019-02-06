@@ -16,6 +16,10 @@ body {
         text-align: center;
 }
 
+p {
+        line-height: 1.5;
+}
+
 p.links {
         line-height: 0.3;
 }
