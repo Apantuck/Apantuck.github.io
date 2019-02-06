@@ -1,4 +1,12 @@
 body {
-        text-align: center;
+        text-align: left;
         font-family: "Palatino Linotype";
+}
+
+h3 {
+        line-height: 10px;
+}
+
+h4 {
+        font-style: italic;
 }
