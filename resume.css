@@ -3,10 +3,7 @@ body {
         font-family: "Palatino Linotype";
 }
 
-h3 {
-        line-height: 1px;
-}
-
 h4 {
         font-style: italic;
+        line-height: 10px;
 }
