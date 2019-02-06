@@ -1,0 +1,13 @@
+body {
+        text-align: center;
+        font-family: "Palatino Linotype";
+}
+
+h1 {
+        text-decoration: underline;
+        line-height: 20px;
+}
+
+p {
+        padding: 30%;
+}
