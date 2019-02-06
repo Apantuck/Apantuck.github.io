@@ -8,6 +8,14 @@ img {
         padding: 5px;
 }
 
+h1 {
+        text-decoration: underline;
+}
+
 body {
         text-align: center;
+}
+
+p {
+        line-height: 1.0;
 }
